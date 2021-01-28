@@ -6,7 +6,8 @@ var BookInstance = require('./models/bookinstance')
 
 
 var mongoose = require('mongoose');
-var mongoDB =require('uri');
+var uri=require('uri');
+var mongoDB =uri.uri;
 
 mongoose.connect(mongoDB, {useNewUrlParser: true, useUnifiedTopology: true});
 mongoose.Promise = global.Promise;
