@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ee2fa6-c14a-434b-8788-67b6276f7bfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/populatedb.js" beforeDir="false" afterPath="$PROJECT_DIR$/populatedb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611743295318</updated>
       <workItem from="1611743296428" duration="7212000" />
-      <workItem from="1611821408456" duration="3617000" />
+      <workItem from="1611821408456" duration="11390000" />
     </task>
     <servers />
   </component>
@@ -86,5 +88,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="538" y="392" key="NewPhpFileDialog/0.23.1440.877/-1920.-400.1920.1057@0.23.1440.877" timestamp="1611755778372" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1611841353796">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1920.-400.1920.1057@0.23.1440.877" timestamp="1611841353796" />
   </component>
 </project>

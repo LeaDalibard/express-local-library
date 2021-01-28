@@ -3,10 +3,10 @@ var Book = require('./models/book')
 var Author = require('./models/author')
 var Genre = require('./models/genre')
 var BookInstance = require('./models/bookinstance')
-
+var uri=require('./uri');
 
 var mongoose = require('mongoose');
-var uri=require('uri');
+
 var mongoDB =uri.uri;
 
 mongoose.connect(mongoDB, {useNewUrlParser: true, useUnifiedTopology: true});

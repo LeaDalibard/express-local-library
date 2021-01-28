@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+var uri=require('../uri');
 var app = require('../app');
 var debug = require('debug')('express-local-library:server');
 var http = require('http');
