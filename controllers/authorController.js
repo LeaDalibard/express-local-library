@@ -31,8 +31,7 @@ exports.author_detail = function (req, res, next) {
         },
     }, function (err, results) {
         if (err) {
-            return next(err);
-        }
+            return next(err);}
         if (results.author == null) {// No results
             var err = new Error('Author not found');
             err.status = 404;
@@ -42,7 +41,7 @@ exports.author_detail = function (req, res, next) {
         res.render('author_detail', {
             title: 'Author Detail',
             author: results.author,
-            authors_books: results.author_books
+            author_books: results.author_books
         });
     });
 
