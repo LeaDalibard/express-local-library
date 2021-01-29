@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ee2fa6-c14a-434b-8788-67b6276f7bfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/book_list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/author_delete.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/authorController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/authorController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611743295318</updated>
       <workItem from="1611743296428" duration="7212000" />
-      <workItem from="1611821408456" duration="13017000" />
+      <workItem from="1611821408456" duration="16682000" />
+      <workItem from="1611909725594" duration="6358000" />
+      <workItem from="1611924413218" duration="5207000" />
     </task>
     <servers />
   </component>
@@ -95,5 +98,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1920.-400.1920.1057@0.23.1440.877" timestamp="1611841353796" />
+    <state x="385" y="213" key="search.everywhere.popup" timestamp="1611846717628">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" key="search.everywhere.popup/0.23.1440.877/-1920.-400.1920.1057@0.23.1440.877" timestamp="1611846717628" />
   </component>
 </project>
