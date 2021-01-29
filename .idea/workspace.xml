@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25ee2fa6-c14a-434b-8788-67b6276f7bfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/author_delete.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/authorController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/authorController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/bookController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bookController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1611743296428" duration="7212000" />
       <workItem from="1611821408456" duration="16682000" />
       <workItem from="1611909725594" duration="6358000" />
-      <workItem from="1611924413218" duration="5207000" />
+      <workItem from="1611924413218" duration="6047000" />
     </task>
     <servers />
   </component>
