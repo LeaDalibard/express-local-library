@@ -276,10 +276,10 @@ exports.book_update_post = [
         }
         else {
             // Data from form is valid. Update the record.
-            Book.findByIdAndUpdate(req.params.id, book, {}, function (err,thebook) {
+            Book.findByIdAndUpdate(req.params.id, book, {}, function (err,book) {
                 if (err) { return next(err); }
                 // Successful - redirect to book detail page.
-                res.redirect(thebook.url);
+                res.redirect(book.url);
             });
         }
     }
