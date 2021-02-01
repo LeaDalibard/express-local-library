@@ -13,11 +13,12 @@ var compression = require('compression');
 var helmet = require('helmet');
 
 var app = express();
+
 //Set up mongoose connection
 var mongoose = require('mongoose');
 
-
-var mongoDB =URL.uri;
+var dev_db_url =URL.uri;
+var mongoDB = process.env.MONGODB_URI || dev_db_url;
 
 mongoose.connect(mongoDB, { useNewUrlParser: true , useUnifiedTopology: true});
 var db=mongoose.connection;
