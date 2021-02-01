@@ -13,7 +13,7 @@
 
 ## The Mission
 
-Make a website that might be used to manage the catalog for a local library (CRUD APP. 
+Make a website that might be used to manage the catalog for a local library (CRUD App). 
 
 
 ## Source : 
